@@ -1,0 +1,21 @@
+{
+    "slug": "quizz-1",
+    "title": "La musique classique",
+    "questions": [
+        {
+            "text": "Qui a composé la 9e Symphonie, souvent appelée l'« Hymne à la joie » ?",
+            "options": ["Mozart", "Beethoven", "Bach", "Chopin"],
+            "answer": "Beethoven"
+        },
+        {
+            "text": "Quel compositeur est surnommé le « Roi de la valse » ?",
+            "options": ["Tchaïkovski", "Strauss", "Liszt", "Schubert"],
+            "answer": "Strauss"
+        },
+        {
+            "text": "Dans quel opéra de Mozart trouve-t-on le personnage de Don Giovanni ?",
+            "options": ["Les Noces de Figaro", "La Flûte enchantée", "Don Giovanni", "Così fan tutte"],
+            "answer": "Don Giovanni"
+        }
+    ]
+}

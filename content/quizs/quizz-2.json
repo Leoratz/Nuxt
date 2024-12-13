@@ -1,0 +1,21 @@
+{
+    "slug": "quizz-2",
+    "title": "La mythologie grecque",
+    "questions": [
+        {
+            "text": "Qui est le dieu grec de la mer ?",
+            "options": ["Zeus", "Hadès", "Poséidon", "Hermès"],
+            "answer": "Poséidon"
+        },
+        {
+            "text": "Comment s’appelle le héros qui a vaincu le Minotaure ?",
+            "options": ["Achille", "Thésée", "Héraclès", "Persée"],
+            "answer": "Thésée"
+        },
+        {
+            "text": "Quel est le nom de la déesse grecque de la sagesse et de la stratégie ?",
+            "options": ["Aphrodite", "Héra", "Athéna", "Artémis"],
+            "answer": "Athéna"
+        }
+    ]
+}

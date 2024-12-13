@@ -1,0 +1,21 @@
+{
+    "slug": "quizz-3",
+    "title": "L'empire romain",
+    "questions": [
+        {
+            "text": "Quel événement marque traditionnellement la fin de l'Empire romain d'Occident ?",
+            "options": ["La chute de Rome en 476", "L'assassinat de Jules César", "La division de l'Empire en 395", "L'avènement de Charlemagne en 800"],
+            "answer": "La chute de Rome en 476"
+        },
+        {
+            "text": "Qui était le premier empereur de Rome ?",
+            "options": ["Néron", "Auguste", "Jules César", "Caligula"],
+            "answer": "Auguste"
+        },
+        {
+            "text": "Quel célèbre amphithéâtre romain est situé à Rome ?",
+            "options": ["Le Circus Maximus", "Le Colisée", "Le Panthéon", "Les Thermes de Caracalla"],
+            "answer": "Le Colisée"
+        }
+    ]
+}
