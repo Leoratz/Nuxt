@@ -1,5 +1,7 @@
 <script setup>
-  const quizs = await queryContent('quizs').find();
+  const { gettAllQuizs } = useQuizs();
+
+  const quizs = await gettAllQuizs();
 </script>
 
 <template>

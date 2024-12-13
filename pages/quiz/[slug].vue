@@ -8,7 +8,6 @@
 
 <template>
   <div>
-    {{ quiz.isFinished() }}
     <Questions v-if="!quiz.isFinished()" :quiz="quiz" />
     <FinishQuestions v-else :quiz="quiz" />
   </div>

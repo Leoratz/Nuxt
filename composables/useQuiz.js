@@ -26,7 +26,6 @@ export default function (quiz) {
     }
 
     function isFinished() {
-        console.log(currentQuestionIndex.value, quiz.questions.length);
         return currentQuestionIndex.value >= quiz.questions.length;
     }
 
